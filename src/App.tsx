@@ -264,7 +264,7 @@ export default function App() {
         <span>Status: <span className="text-emerald-500">System Operational</span></span>
       </div>
       <div className="flex gap-4">
-        <span>Github: /wasteguide-ai-core</span>
+        <span>Github:23MH1A1202/sustainable-waste-management</span>
         <span className="hidden sm:inline">Documentation v2.1</span>
       </div>
     </footer>
