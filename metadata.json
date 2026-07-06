@@ -1,0 +1,6 @@
+{
+  "name": "Sustainable Waste Management Assistant",
+  "description": "An AI-powered smart city assistant that helps residents identify waste items, get disposal instructions, locate recycling centers, and track analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
