@@ -1,9 +1,9 @@
 <div align="center">
 <h1>♻️ Sustainable Waste Management</h1>
 <p><strong>An AI-powered smart city assistant that empowers residents to build sustainable habits.</strong></p>
-Live Demo
-
-GitHub Repository
+<a href="https://sustainable-waste-management-5tfl.onrender.com/">Live Demo</a>
+<span>  •  </span>
+<a href="https://github.com/23MH1A1202/sustainable-waste-management">GitHub Repository</a>
 </div>
 <br />
 An intelligent, AI-driven web application designed to help smart cities and their residents manage waste more sustainably. By leveraging artificial intelligence, this platform takes the guesswork out of recycling and waste disposal, providing users with actionable insights, nearby recycling locations, and personalized analytics.
