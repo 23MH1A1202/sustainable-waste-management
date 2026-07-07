@@ -1,30 +1,47 @@
 <div align="center">
-<h1>♻️ Sustainable Waste Management</h1>
-<p><strong>An AI-powered smart city assistant that empowers residents to build sustainable habits.</strong></p>
-<a href="https://sustainable-waste-management-5tfl.onrender.com/">Live Demo</a>
-<span>  •  </span>
-<a href="https://github.com/23MH1A1202/sustainable-waste-management">GitHub Repository</a>
+  <h1>♻️ Sustainable Waste Management</h1>
+  <p><strong>An AI-powered smart city assistant that empowers residents to build sustainable habits.</strong></p>
+  <a href="https://sustainable-waste-management-5tfl.onrender.com/">Live Demo</a>
+  <span>  •  </span>
+  <a href="https://github.com/23MH1A1202/sustainable-waste-management">GitHub Repository</a>
 </div>
+
 An intelligent, AI-driven web application designed to help smart cities and their residents manage waste more sustainably. By leveraging artificial intelligence, this platform takes the guesswork out of recycling and waste disposal, providing users with actionable insights, nearby recycling locations, and personalized analytics.
+
+---
+
 ## ✨ Key Features
- * 📸 **AI Waste Scanner:** Upload or snap a picture of an item to instantly identify its waste category and receive step-by-step disposal instructions.
- * 🗺️ **Interactive Recycling Map:** Easily locate the nearest recycling centers, electronic waste drop-offs, and specialized disposal facilities.
- * 📊 **Analytics Dashboard:** Track your personal sustainability metrics and view interactive charts detailing waste distribution.
- * 📜 **History Logging:** Keep a convenient record of your previously scanned items and disposal history.
+
+* 📸 **AI Waste Scanner:** Upload or snap a picture of an item to instantly identify its waste category and receive step-by-step disposal instructions.
+* 🗺️ **Interactive Recycling Map:** Easily locate the nearest recycling centers, electronic waste drop-offs, and specialized disposal facilities.
+* 📊 **Analytics Dashboard:** Track your personal sustainability metrics and view interactive charts detailing waste distribution.
+* 📜 **History Logging:** Keep a convenient record of your previously scanned items and disposal history.
+
+---
+
 ## 🛠️ Tech Stack
- * **Frontend:** React, TypeScript, Vite
- * **Styling:** Tailwind CSS / CSS
- * **AI Integration:** Google Gemini API (via Google AI Studio)
- * **Backend/Server:** Node.js, Express
- * **Deployment:** Render
+
+* **Frontend:** React, TypeScript, Vite
+* **Styling:** Tailwind CSS / CSS
+* **AI Integration:** Google Gemini API (via Google AI Studio)
+* **Backend/Server:** Node.js, Express
+* **Deployment:** Render
+
+---
+
 ## 🚀 Getting Started
+
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing.
+
 ### Prerequisites
+
 Ensure you have the following installed:
- * Node.js (v16 or higher recommended)
- * npm or yarn package manager
+* Node.js (v16 or higher recommended)
+* npm or yarn package manager
+
 ### Installation
- 1. **Clone the repository:**
+
+1. **Clone the repository:**
    ```bash
    git clone [https://github.com/23MH1A1202/sustainable-waste-management.git](https://github.com/23MH1A1202/sustainable-waste-management.git)
    cd sustainable-waste-management
