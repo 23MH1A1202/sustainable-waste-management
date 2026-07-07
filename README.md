@@ -5,7 +5,6 @@
 <span>  •  </span>
 <a href="https://github.com/23MH1A1202/sustainable-waste-management">GitHub Repository</a>
 </div>
-<br />
 An intelligent, AI-driven web application designed to help smart cities and their residents manage waste more sustainably. By leveraging artificial intelligence, this platform takes the guesswork out of recycling and waste disposal, providing users with actionable insights, nearby recycling locations, and personalized analytics.
 ## ✨ Key Features
  * 📸 **AI Waste Scanner:** Upload or snap a picture of an item to instantly identify its waste category and receive step-by-step disposal instructions.
